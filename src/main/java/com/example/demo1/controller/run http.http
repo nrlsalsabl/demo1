@@ -1,0 +1,6 @@
+
+#  /* run yang customer dan tidak menampilkan apa-apa
+ 
+# GET http://localhost:8080/init
+
+GET http://localhost:8080/all
